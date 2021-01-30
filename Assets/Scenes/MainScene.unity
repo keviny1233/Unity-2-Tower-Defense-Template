@@ -1493,7 +1493,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d9d88dd6e08843e39659d6500fb358e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  towerList: []
+  towerList:
+  - {fileID: 11400000, guid: 8be41cde0773d124c9e5497691e3923f, type: 2}
+  - {fileID: 11400000, guid: 33dd07b102c70b64fbacc4400d3673cd, type: 2}
+  - {fileID: 11400000, guid: 92bd4d33a1c3fd448b38c0e4917b7ab0, type: 2}
 --- !u!1 &578792300
 GameObject:
   m_ObjectHideFlags: 0
@@ -1828,7 +1831,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 68.3
+  m_fontSize: 68.35
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1

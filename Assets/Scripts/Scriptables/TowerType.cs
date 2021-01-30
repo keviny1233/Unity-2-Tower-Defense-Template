@@ -17,5 +17,7 @@ public class TowerType : ScriptableObject
     public float attackRange;
     public float rotationOffset=0;
 
+    public ProjectileType projectile;
+
 
 }
